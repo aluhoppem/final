@@ -43,7 +43,8 @@ main {
 
 h1 {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 3rem;
+padding-left: 130px;
 }
 img {
   width: 135px;
@@ -51,3 +52,28 @@ img {
   border-radius: 12px;
 }
 
+#p1 {
+  width: 600px;
+  font-size: large;
+}
+
+#p2 {
+  width: 600px;
+  margin-left: auto;
+  font-size: large;
+}
+#p3 {
+  width: 600px;
+  font-size: large;
+}
+.div_index {
+display: flex;
+gap: 120px;
+align-items: center;
+}
+
+.index_img {
+  width: 600px;
+  height: 400px;
+  flex-shrink: 0;
+}
