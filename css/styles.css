@@ -137,3 +137,15 @@ th, td {
 #textor {
   text-align: right;
 }
+#pl {
+  text-align: left;
+  width: 600px;
+  font-size: large;
+}
+
+#pr {
+  text-align: right;
+  width: 600px;
+  font-size: large;
+
+}
