@@ -130,3 +130,10 @@ th, td {
   text-align: center;
   font-size: 30px;
 }
+
+#textol {
+  text-align: left;
+}
+#textor {
+  text-align: right;
+}
