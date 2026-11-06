@@ -100,30 +100,30 @@ th, td {
 }
 
 
-#parr {
+.parr {
   text-align: center;
   font-size: 30px;
 }
 
-#tl {
+.tl {
   text-align: left;
 }
-#tr {
+.tr {
   text-align: right;
 }
-#textor {
+.textor {
   text-align: right;
 }
-#textol {
+.textol {
   text-align: left;
 }
-#pl {
+.pl {
   text-align: left;
   width: 600px;
   font-size: large;
 }
 
-#pr {
+.pr {
   text-align: right;
   width: 600px;
   font-size: large;
@@ -133,12 +133,19 @@ th, td {
 text-align: center;
 padding: 10px;
 }
- #record {
+ .record {
   text-align: center;
+  font-size: 26px;
+  font-weight: bolder;
  }
  .pie-pagina {
-  background-color: rgb(255, 30, 30);
+  background-color: rgb(32, 94, 186);
   color: white;
   text-align: center;
   padding: 15px 0;
+}
+.parr {
+ text-align: center;
+  font-size: 26px;
+  font-weight: bolder;
 }
