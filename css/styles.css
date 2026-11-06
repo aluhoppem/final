@@ -134,6 +134,8 @@ text-align: center;
 padding: 10px;
 background-color: #ffffff;
 text-decoration: none;
+color: #000;
+font-weight: bold;
 }
  .record {
   text-align: center;
