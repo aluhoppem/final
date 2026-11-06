@@ -136,3 +136,9 @@ padding: 10px;
  #record {
   text-align: center;
  }
+ .pie-pagina {
+  background-color: rgb(255, 30, 30);
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
