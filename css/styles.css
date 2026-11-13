@@ -187,3 +187,12 @@ input {
   font-weight: bolder;
   color: rgb(255, 0, 0); 
 }
+.logos
+{
+  color:#ffffff
+}
+.logo_img
+{
+  height: 60px;
+  object-fit: contain;
+}
