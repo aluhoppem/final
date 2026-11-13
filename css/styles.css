@@ -105,29 +105,23 @@ th, td {
   font-size: 30px;
 }
 
-.tl {
+.t {
   text-align: center;
-  width: 600px;
+  width: 100%;
   font-size: large;
   
 
 }
-.tr {
+
+
+.texto {
   text-align: center;
-  width: 600px;
-  font-size: large;
- 
-}
-.textor {
-  text-align: center;
+  width: 100%;
  
   
 }
-.textol {
-  text-align: center;
- 
- 
-}
+
+
 .pl {
   text-align: left;
   width: 600px;
