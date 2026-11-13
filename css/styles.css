@@ -107,17 +107,29 @@ th, td {
 
 .tl {
   text-align: left;
+  width: 600px;
+  font-size: large;
+  margin-left: auto;
+
 }
 .tr {
   text-align: right;
+  width: 600px;
+  font-size: large;
+  margin-right: auto;
+
+
+ 
 }
 .textor {
   text-align: right;
   padding-right: 15px;
+  margin-right: auto;
 }
 .textol {
   text-align: left;
   padding-left: 15px;
+  margin-left: auto;
 }
 .pl {
   text-align: left;
